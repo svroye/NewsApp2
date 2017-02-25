@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <!-- labels for the settings-->
+    <string name="all_label">all</string>
+    <string name="politics_label">politics</string>
+    <string name="business_label">business</string>
+    <string name="technology_label">technology</string>
+    <string name="sports_label">sport</string>
+    <string name="movies_label">film</string>
+    <string name="travel_label">travel</string>
+
+    <string name="setting_section" translatable="false">section</string>
+    <string name="setting_order_by" translatable="false">orderBy</string>
+
+    <!-- values for the settings-->
+    <string name="all_value" translatable="false"></string>
+    <string name="politics_value" translatable="false">politics</string>
+    <string name="business_value" translatable="false">business</string>
+    <string name="technology_value" translatable="false">technology</string>
+    <string name="sports_value" translatable="false">sport</string>
+    <string name="movies_value" translatable="false">film</string>
+    <string name="travel_value" translatable="false">travel</string>
+
+    <!-- labels when no data is found or when there is no internet connection-->
+    <string name="empty_text">No news found...</string>
+    <string name="no_internet">No internet connection...</string>
+
+
+
+    <string name="order_by_newest_label">newest</string>
+    <string name="order_by_oldest_label">oldest</string>
+    <string name="order_by_relevance_label">relevance</string>
+
+    <string name="order_by_newest_value" translatable="false">newest</string>
+    <string name="order_by_oldest_value" translatable="false">oldest</string>
+    <string name="order_by_relevance_value" translatable="false">relevance</string>
+
+</resources>

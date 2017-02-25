@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_section_label">
+        <item>@string/all_label</item>
+        <item>@string/politics_label</item>
+        <item>@string/business_label</item>
+        <item>@string/technology_label</item>
+        <item>@string/sports_label</item>
+        <item>@string/movies_label</item>
+        <item>@string/travel_label</item>
+    </string-array>
+
+    <string-array name="settings_section_value">
+        <item>@string/all_value</item>
+        <item>@string/politics_value</item>
+        <item>@string/business_value</item>
+        <item>@string/technology_value</item>
+        <item>@string/sports_value</item>
+        <item>@string/movies_value</item>
+        <item>@string/travel_value</item>
+    </string-array>
+
+    <string-array name="settings_order_by_label">
+        <item>@string/order_by_newest_label</item>
+        <item>@string/order_by_oldest_label</item>
+        <item>@string/order_by_relevance_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_value">
+        <item>@string/order_by_newest_value</item>
+        <item>@string/order_by_oldest_value</item>
+        <item>@string/order_by_relevance_value</item>
+    </string-array>
+
+</resources>

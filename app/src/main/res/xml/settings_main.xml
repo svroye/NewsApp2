@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="name">
+
+    <ListPreference
+        android:defaultValue="@string/politics_value"
+        android:entries="@array/settings_section_label"
+        android:entryValues="@array/settings_section_value"
+        android:key="@string/setting_section"
+        android:title="Section"/>
+
+    <ListPreference
+        android:defaultValue="@string/order_by_newest_value"
+        android:entries="@array/settings_order_by_label"
+        android:entryValues="@array/settings_order_by_value"
+        android:key="@string/setting_order_by"
+        android:title="Order by"/>
+
+
+
+</PreferenceScreen>
